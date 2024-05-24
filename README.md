@@ -3,23 +3,23 @@
 ## Languages I Have Experience With
 Here are some of the programming languages I have experience with:
 
-- Python
-- Java
-- Swift
-- JavaScript
-- R
+- <img src="https://img.icons8.com/color/48/000000/python.png" width="20"/> Python
+- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="20"/> Java
+- <img src="https://img.icons8.com/color/48/000000/swift.png" width="20"/> Swift
+- <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20"/> JavaScript
+- <img src="https://img.icons8.com/ios-filled/50/000000/r.png" width="20"/> R
 
 ## Frameworks I Have Experience With
 Here are some of the programming frameworks I have experience with:
 
-- SpringBoot
-- Django
-- Flask
-- Streamlit
-- SwiftUI
-- UIKit
-- React
-- jQuery
+- <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="20"/> SpringBoot
+- <img src="https://img.icons8.com/color/48/000000/django.png" width="20"/> Django
+- <img src="https://img.icons8.com/color/48/000000/flask.png" width="20"/> Flask
+- <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="20"/> Streamlit
+- <img src="https://img.icons8.com/color/48/000000/swift.png" width="20"/> SwiftUI
+- <img src="https://img.icons8.com/ios/50/000000/uikit.png" width="20"/> UIKit
+- <img src="https://img.icons8.com/color/48/000000/react-native.png" width="20"/> React
+- <img src="https://img.icons8.com/ios/50/000000/jquery.png" width="20"/> jQuery
 
 ## Projects
 Here are some of the projects I have worked on:
