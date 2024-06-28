@@ -32,7 +32,9 @@ Here are some of the projects I have worked on:
 また、メモ機能もついているので、薬を飲めなかった理由（体調が悪かった, 飲み忘れたなど）も記録したり、日記としてその日の出来事を記したりすることもできます。
 
 ### Project 2: [AICameraApp](https://github.com/ryun89/AICameraApp)
-- **Description:** 機械学習を利用した笑顔を検出したらその瞬間を撮影するiOSアプリです。
+- **Description:** 機械学習を利用した笑顔を検出したらその瞬間を撮影するiOSアプリです。アプリはApp Storeにリリースされていますので、ぜひお試しください。
+
+- **App Store Link:** [アプリをインストールする](https://apps.apple.com/jp/app/id6504662657)
 
 - **Technologies Used:** Swift, SwiftUI, AVFoundation, Vision, Pytorch(CNNモデル学習の際に利用), CoreML, CreateML
 
