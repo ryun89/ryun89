@@ -1,25 +1,22 @@
 # Welcome to My GitHub Profile!
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryun89&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryun89&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryun89&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryun89&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryun89&theme=gruvbox&utcOffset=9)
+
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=ryun89&theme=gruvbox)
 
 ## Languages I Have Experience With
-Here are some of the programming languages I have experience with:
-
-- <img src="https://img.icons8.com/color/48/000000/python.png" width="20"/> Python
-- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="20"/> Java
-- <img src="https://img.icons8.com/color/48/000000/swift.png" width="20"/> Swift
-- <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20"/> JavaScript
-- <img src="https://img.icons8.com/ios-filled/50/000000/r.png" width="20"/> R
+Here are some of the programming languages I have experience with:<br>
+[![My Skills](https://skillicons.dev/icons?i=swift,python,java,js,r,ruby)](https://skillicons.dev)
 
 ## Frameworks I Have Experience With
-Here are some of the programming frameworks I have experience with:
-
-- <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="20"/> SpringBoot
-- <img src="https://img.icons8.com/color/48/000000/django.png" width="20"/> Django
-- <img src="https://img.icons8.com/color/48/000000/flask.png" width="20"/> Flask
-- <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="20"/> Streamlit
-- <img src="https://img.icons8.com/color/48/000000/swift.png" width="20"/> SwiftUI
-- <img src="https://img.icons8.com/ios/50/000000/uikit.png" width="20"/> UIKit
-- <img src="https://img.icons8.com/color/48/000000/react-native.png" width="20"/> React
-- <img src="https://img.icons8.com/ios/50/000000/jquery.png" width="20"/> jQuery
+Here are some of the programming frameworks I have experience with:<br>
+[![My Skills](https://skillicons.dev/icons?i=swift,spring,django,flask,react,jquery)](https://skillicons.dev)
 
 ## Projects
 Here are some of the projects I have worked on:
@@ -53,8 +50,9 @@ Here is a brief overview of my internship experiences:
 - **Duration:** 2023/04 - 2024/03
 - **Responsibilities:** 長期インターンシップとしてP社に約1年間勤めていました。P社では、業務用アプリケーションの開発を行なっており、私が担当した部分は開発（単体テスト含む）、結合テストを主に担当していました。
 
-### Internship 2:  Coming Soon!
-
----
+### Internship 1: [株式会社エムニ]
+- **Position:** 製造業向けのLLM開発に従事しています。
+- **Duration:** 2024/8 ~ 継続中
+- **Responsibilities:** バックエンドエンジニアとして入社しましたが、現在は製造業向けのLLMの開発を行っています。
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
